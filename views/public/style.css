@@ -1,0 +1,9 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+h2 {
+  text-shadow: 2px 2px 5px black;
+}
+form {
+  box-shadow: 0 0 10px rgba(255,255,255,0.2);
+}
