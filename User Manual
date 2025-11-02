@@ -1,0 +1,24 @@
+Download the Project from github or 
+using git: 
+git clone https://github.com/chandelsinghrudra/Threat_reporting.git
+cd Threat_reporting
+____________________________________________________________________
+Install Node.js then npm install
+
+____________________________________________________________________
+
+Set Up the Database
+
+Open MySQL Workbench or your terminal.
+
+Copy everything from the file named schema.sql and run it there.
+
+This will create the database and tables needed for the project.
+
+Run the Project
+In the terminal, start the server by typing:
+node app.js
+
+After everything runs successfully  , 
+Go to http://localhost:3000
+This is the user page where anyone can report threats like scams, frauds, or cyberattacks.
