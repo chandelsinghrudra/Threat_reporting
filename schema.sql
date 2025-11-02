@@ -17,6 +17,6 @@ CREATE TABLE threats (
     location VARCHAR(100),
     number VARCHAR(20),
     report_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    priority INT DEFAULT 1,
+
     FOREIGN KEY (user_id) REFERENCES users(user_id)
 );
