@@ -1,5 +1,4 @@
 This project allows users to report threats such as scams, frauds, misinformation, phishing, and cyberattack attempts. Users can submit details through a simple web form, and all reports are stored in a MySQL database. The admin and their team can then review these reports and take suitable actions against the reported issues.
-
 /cyber-threat-report-system
 ├─ app.js # Main Express app
 ├─ package.json
